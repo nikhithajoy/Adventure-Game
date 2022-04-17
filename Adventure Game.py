@@ -86,8 +86,8 @@ while 'yes' in play:
         answer = take_command()
 
         if 'back' in answer:
-            print("You go back. Y were caught by a Lizard. He took you to a dark place. You can not escape from there. Now you are his slave. The lizard was a human. You have to wait for him to turn into a human.")
-            speak("You go back. Y were caught by a Lizard. He took you to a dark place. You can not escape from there. Now you are his slave. The lizard was a human. You have to wait for him to turn into a human.")
+            print("You go back. You were caught by a Lizard. He took you to a dark place. You can not escape from there. Now you are his slave. The lizard was a human. You have to wait for him to turn into a human.")
+            speak("You go back. You were caught by a Lizard. He took you to a dark place. You can not escape from there. Now you are his slave. The lizard was a human. You have to wait for him to turn into a human.")
             
         elif 'cross' in answer:
             print("You cross the bridge and meet a stranger. Do you talk to them?")
